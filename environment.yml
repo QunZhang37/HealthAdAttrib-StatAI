@@ -1,0 +1,22 @@
+name: haattrib
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - networkx
+  - pymc
+  - arviz
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - streamlit
+      - tqdm

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "HealthAdAttrib-StatAI: Statistical Attribution Modeling for Multi-Channel Healthcare Advertising"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+version: "0.1.0"
+date-released: "2025-10-22"

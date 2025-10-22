@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "haattrib"
+version = "0.1.0"
+description = "Statistical attribution for healthcare marketing"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "Your Name"}]
+dependencies = []
